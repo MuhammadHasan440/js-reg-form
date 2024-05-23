@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(143, 30, 30);
+    color: white;
+}
+.flex{
+    display: flex;
+}
+.pad{
+    padding: 10px;
+}
+.center{
+    text-align: center;
+}
+.bor{
+    border: 1px solid;
+}
+.m-l{
+    margin-left: 200px;
+}
+.m-r{
+    margin-right: 200px;
+}
